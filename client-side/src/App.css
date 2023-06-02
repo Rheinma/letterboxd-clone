@@ -1,0 +1,8 @@
+body {
+  background: black;
+  color: #ffffff;
+}
+
+.container-movie-detail {
+  min-height: 100vh;
+}

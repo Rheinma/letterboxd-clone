@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "synopsis": "ONCE MORE WITH FEELING.\n Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+    "trailerUrl": "https://www.youtube.com/embed/u3V5KDHRQvk",
+    "imageUrl": "https://media-cache.cinematerial.com/p/500x/81na4yiw/guardians-of-the-galaxy-vol-3-movie-poster.jpg?v=1676246373",
+    "rating": 4.2,
+    "GenreId": 1,
+    "UserId": 1
+  },
+  {
+    "title": "Evil Dead Rise",
+    "synopsis": "MOMMY LOVES YOU TO DEATH.\n Three siblings find an ancient vinyl that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+    "trailerUrl": "https://www.youtube.com/embed/smTK_AeAPHs",
+    "imageUrl": "https://media-cache.cinematerial.com/p/500x/ggdl7msm/evil-dead-rise-singaporean-movie-poster.jpg?v=1676632721",
+    "rating": 3.5,
+    "GenreId": 11,
+    "UserId": 1
+  },
+  {
+    "title": "5 Centimeters per Second",
+    "synopsis": "AT WHAT SPEED MUST I LIVE TO SEE YOU AGAIN?\nThree moments in Takaki’s life: his relationship with Akari and their forced separation; his friendship with Kanae, who is secretly in love with him; the demands and disappointments of adulthood, an unhappy life in a cold city.",
+    "trailerUrl": "https://www.youtube.com/embed/ANiNAqkuWMY",
+    "imageUrl": "https://cdn.myanimelist.net/images/about_me/ranking_items/9813430-ed832ec8-f93a-40c8-a52a-958abf4b9d80.jpg?t=1655725854",
+    "rating": 3.5,
+    "GenreId": 3,
+    "UserId": 1
+  },
+  {
+    "title": "Interstellar",
+    "synopsis": "MANKIND WAS BORN ON EARTH. IT WAS NEVER MEANT TO DIE HERE.\n The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "trailerUrl": "https://www.youtube.com/embed/Lm8p5rlrSkY",
+    "imageUrl": "https://media-cache.cinematerial.com/p/500x/ctpnz4mq/interstellar-movie-poster.jpg?v=1456424450",
+    "rating": 4.3,
+    "GenreId": 15,
+    "UserId": 1
+  },
+  {
+    "title": "Joker",
+    "synopsis": "PUT ON A HAPPY FACE.\n During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "trailerUrl": "https://www.youtube.com/embed/t433PEQGErc",
+    "imageUrl": "https://www.themoviedb.org/t/p/w1280/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "rating": 3.9,
+    "GenreId": 5,
+    "UserId": 1
+  },
+  {
+    "title": "Midsommar",
+    "synopsis": "LET THE FESTIVITIES BEGIN.\n Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+    "trailerUrl": "https://www.youtube.com/embed/I0UWIya-O0s",
+    "imageUrl": "https://media-cache.cinematerial.com/p/500x/aydewxpj/midsommar-movie-poster.jpg?v=1561947968",
+    "rating": 3.9,
+    "GenreId": 13,
+    "UserId": 1
+  },
+  {
+    "title": "Parasite",
+    "synopsis": "ACT LIKE YOU OWN THE PLACE.\nAll unemployed, Ki-taek’s family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+    "trailerUrl": "https://www.youtube.com/embed/tBfgTZsBeFM",
+    "imageUrl": "https://media-cache.cinematerial.com/p/500x/zjfkr4ca/parasite-movie-poster.jpg?v=1565848483",
+    "rating": 4.6,
+    "GenreId": 7,
+    "UserId": 1
+  },
+  {
+    "title": "Suzume",
+    "synopsis": "ON THE OTHER SIDE OF THE DOOR, WAS TIME IN ITS ENTIRETY.\n Suzume, 17, lost her mother as a little girl. On her way to school, she meets a mysterious young man. But her curiosity unleashes a calamity that endangers the entire population of Japan, and so Suzume embarks on a journey to set things right.",
+    "trailerUrl": "https://www.youtube.com/embed/5pTcio2hTSw",
+    "imageUrl": "https://www.themoviedb.org/t/p/w1280/vIeu8WysZrTSFb2uhPViKjX9EcC.jpg",
+    "rating": 3.9,
+    "GenreId": 9,
+    "UserId": 1
+  },
+  {
+    "title": "Last Night in Soho",
+    "synopsis": "WHEN THE PAST LETS YOU IN, THE TRUTH WILL COME OUT.\nA young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer. But 1960s London is not what it seems, and time seems to be falling apart with shady consequences.",
+    "trailerUrl": "https://www.youtube.com/embed/XgNrL4Kf7yU",
+    "imageUrl": "https://media-cache.cinematerial.com/p/500x/zmyrwuey/last-night-in-soho-movie-poster.jpg?v=1631826157",
+    "rating": 3.5,
+    "GenreId": 9,
+    "UserId": 1
+  },
+  {
+    "title": "1917",
+    "synopsis": "TIME IS THE ENEMY.\nAt the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+    "trailerUrl": "https://www.youtube.com/embed/gZjQROMAh_s",
+    "imageUrl": "https://media-cache.cinematerial.com/p/500x/4rhbzbmy/1917-british-movie-poster.jpg?v=1570440224",
+    "rating": 4.1,
+    "GenreId": 10,
+    "UserId": 1
+  },
+  {
+    "title": "Weathering with You",
+    "synopsis": "A STORY ABOUT THE SECRET OF THIS WORLD THAT ONLY I AND SHE KNOW.\n High school student Hodaka leaves his home on an isolated island and moves to Tokyo, but he immediately becomes broke. He lives his days in isolation, but finally finds a job as a writer for a shady occult magazine. After he starts his job, the weather has been rainy day after day. In a corner of the crowded and busy city, Hodaka meets a young woman named Hina. Due to certain circumstances, Hina and her younger brother live together, but have a cheerful and sturdy life. Hina also has a certain power: the power to stop the rain and clear the sky.",
+    "trailerUrl": "https://www.youtube.com/embed/Q6iK6DjV_iE",
+    "imageUrl": "https://www.themoviedb.org/t/p/w1280/qgrk7r1fV4IjuoeiGS5HOhXNdLJ.jpg",
+    "rating": 3.6,
+    "GenreId": 9,
+    "UserId": 1
+  },
+  {
+    "title": "Your Name.",
+    "synopsis": "DISTANCE MEANS NOTHING, WHEN SOMEONE MEANS EVERYTHING!!.\n High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+    "trailerUrl": "https://www.youtube.com/embed/0LYv1TgeFD4",
+    "imageUrl": "https://www.themoviedb.org/t/p/w1280/q719jXXEzOoYaps6babgKnONONX.jpg",
+    "rating": 4.2,
+    "GenreId": 9,
+    "UserId": 1
+  }
+]
